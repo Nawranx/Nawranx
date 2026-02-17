@@ -151,7 +151,7 @@ ScribeScan is a sophisticated web application that leverages deep learning to au
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nawranx-181717?style=for-the-badge&logo=github)](https://github.com/Nawranx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nawran-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Nawran-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-nawran-45b985299)
 [![Email](https://img.shields.io/badge/Email-mhdnawran4%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mhdnawran4@gmail.com)
 
 </div>
