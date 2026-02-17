@@ -134,7 +134,6 @@ ScribeScan is a sophisticated web application that leverages deep learning to au
 
 - 🏆 **Hult Prize National Finalist** - AquaSense Project (2025)
 - 🤖 Building agentic RAG systems & real-time AI applications
-- 🎯 End-to-end ML pipelines from data preprocessing to deployment
 
 ---
 
